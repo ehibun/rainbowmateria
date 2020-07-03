@@ -4,24 +4,25 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/styles.css">
-    <title>{{ title }}</title>
+    <link rel="stylesheet" href="https://use.typekit.net/ohl3fsl.css">
+    <title>Rainbow Materia • {{ title }}</title>
   </head>
   <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
 
+    {% include "header.njk" %}
     <div class="container">
-      {% include "header.njk" %}
       {{ content | safe }}
+    </div>
+    <div class="container">
       {% include "footer.njk" %}
     </div>
 
     {% set js %}
-      {% include "js/core.js" %}
-      {% include "js/hello.js" %}
+    {% include "js/core.js" %}
     {% endset %}
-    <script>{{ js | jsmin | safe }}</script>
+    <script>
+      {{ js | jsmin | safe }}
+    </script>
 
   </body>
 </html>
-
-
-

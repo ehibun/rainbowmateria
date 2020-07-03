@@ -23,6 +23,7 @@ module.exports = class {
       require('postcss-import'),
       require('postcss-mixins'),
       require('postcss-color-mix'),
+      require('postcss-preset-env')({ stage: 0 }),
       require('cssnano')
     ])
     .process(rawCss, { from: rawFilepath })

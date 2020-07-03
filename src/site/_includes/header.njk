@@ -1,12 +1,34 @@
 <header>
-  <ul class="nav">
-    <li>
-      <a href="/">home<small>where the heart is</small></a>
-    </li>
-    <li>
-      <a href="/about">about<small>all about this</small></a>
-    </li>
-  </ul>
-  <h1>{{ title }}</h1>
-  {%- if subtitle %}<p class="subtitle">{{ subtitle | safe }}</p>{% endif %}
+  <div class="container header-container {% if hero %}header-container--hero{% endif %}">
+    <div class="nav">
+      <div class="logo">
+        <a href="/">
+          <img src="/images/logo.png" alt="Rainbow Materia"/>
+        </a>
+      </div>
+      <ul class="nav-links">
+        {# <li>
+        <a href="/about">About Us</a>
+      </li> #}
+        <li>
+          <a href="/guidelines">Guidelines</a>
+        </li>
+        <li>
+          <a href="https://discord.gg/rm">Discord</a>
+        </li>
+      </ul>
+    </div>
+
+    <div {% if hero %}class="hero"{% endif %}>
+      <h1>{{ title }}</h1>
+
+      {%- if subtitle %}
+        <p class="subtitle">{{ subtitle | safe }}</p>
+      {% endif %}
+
+      {%- if button.text and button.url %}
+        <a class="hero-button" href="{{ button.url | safe }}">{{ button.text | safe }}</a>
+      {% endif %}
+    </div>
+  </div>
 </header>
