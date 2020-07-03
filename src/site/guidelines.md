@@ -43,7 +43,7 @@ Each of us have our own issuese that we struggle with, and it's important that w
 
 1. If you are asked to move a triggering discussion to the support channels, please do so where possible.
 2. When posting something that may trigger or upset others, consider posting in a spoiler tag, marked with a content warning.
-3. Consider the lived experiences of those around you, particularly by
+3. Consider the lived experiences of those around you, particularly by those whose experiences don't match yours. What may not upset you could be a harmful trigger to others, so take care when speaking about sensitive topics.
 
 ## No Hate Speech or Support
 
