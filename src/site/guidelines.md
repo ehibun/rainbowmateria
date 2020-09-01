@@ -128,13 +128,13 @@ Please note that by using Rainbow Materia, you agree to follow the latest versio
 
 ## Contacting Staff
 
-If you have any questions about these rules, or want clarification on how we would enforce them in any given situation, please reach out to a member of staff and we will be happy to help.
+If you have any questions about these guidelines, or want clarification on how we would enforce them in any given situation, please reach out to a member of staff and we will be happy to help.
 
 There are a few ways to contact us if you need to:
 
 ### Feo Ul/Modmail
 
-#Our primary means of contact us via `@Feo Ul#2288` on Discord. Feo Ul is our modmail bot, which means that DMs sent to them will be opened as tickets that anyone on the staff team can review and respond to.
+Our primary means of contact us via `@Feo Ul#2288` on Discord. Feo Ul is our modmail bot, which means that DMs sent to them will be opened as tickets that anyone on the staff team can review and respond to.
 
 This means you'll get a quicker response, as any appropriate staff member can respond and discuss your issue with you, without needing you to guess who's available to help.
 
