@@ -130,7 +130,7 @@ Please note that by using Rainbow Materia, you agree to follow the latest versio
 
 If you have any questions about these rules, or want clarification on how we would enforce them in any given situation, please reach out to a member of staff and we will be happy to help.
 
-You can also contact us t There are a few ways to contact us if you need to.
+There are a few ways to contact us if you need to:
 
 ### Feo Ul/Modmail
 
