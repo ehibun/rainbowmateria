@@ -39,7 +39,7 @@ While the community is often home to meaningful and serious debates, we expect e
 
 ### Look After Each Other
 
-Each of us have our own issuese that we struggle with, and it's important that we acknowledge that and work to allow everyone to feel comfortable. We ask that you do your best to be respectful of this. A few things that can help are:
+Each of us have our own issues that we struggle with, and it's important that we acknowledge that and work to allow everyone to feel comfortable. We ask that you do your best to be respectful of this. A few things that can help are:
 
 1. If you are asked to move a triggering discussion to the support channels, please do so where possible.
 2. When posting something that may trigger or upset others, consider posting in a spoiler tag, marked with a content warning.
