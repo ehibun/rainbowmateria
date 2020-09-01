@@ -142,7 +142,7 @@ If you would prefer to be assisted by someone with particular experience, please
 
 ### Discord or Forum DMs
 
-If you'd like to contact a member of staff directly, you can DM us either on these forums or via Discord. You might choose to do this if you wish to speak to someone in particular, or if your issue is sensitive. Please note that contacting a staff member directly may mean that you take longer to receive a reply.
+If you'd like to contact a member of staff directly, you can send any of us a Direct Message via Discord. You might choose to do this if you wish to speak to someone in particular, or if your issue is sensitive. Please note that contacting a staff member directly may mean that you take longer to receive a reply.
 
 ## Warnings, Bans, and Appeals
 
@@ -150,7 +150,7 @@ Rainbow Materia's staff team are responsible for monitoring the community and, i
 
 That said, our first priority is the safety of the community, and we will take whatever actions are needed to ensure that everyone in the community can be safe, comfortable, and accepted. To guide this, we follow a broad structure for issuing warnings and bans, which allows us to maintain consistency and transparency in terms of how we enforce the guidelines, but still allows us the flexibility to adapt our approach when needed.
 
-#If you have any comments or concerns, please contact `@Feo Ul#2288` to send a message to the staff team, and we'll get back to you promptly.
+If you have any comments or concerns, please contact `@Feo Ul#2288` to send a message to the staff team, and we'll get back to you promptly.
 
 ---
 
