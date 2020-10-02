@@ -49,7 +49,7 @@ Each of us have our own issues that we struggle with, and it's important that we
 
 Some of our community members have health conditions which must be taken into consideration when posting here. For example, flashing images can cause epileptic seizures - which can be extremely dangerous. As a result, flashing imagery must _not_ be posted anywhere on the server, even under a spoiler tag.
 
-Please note that due to the severity of this rule, we reserve the right to issue permanent bans if we believe that the flashing imagery was posted knowingly.
+Please note that due to this rule's severity, we reserve the right to issue permanent bans if we believe that the flashing imagery was posted intentionally.
 
 ## No Hate Speech or Support
 
