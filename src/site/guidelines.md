@@ -45,6 +45,12 @@ Each of us have our own issues that we struggle with, and it's important that we
 2. When posting something that may trigger or upset others, consider posting in a spoiler tag, marked with a content warning.
 3. Consider the lived experiences of those around you, particularly by those whose experiences don't match yours. What may not upset you could be a harmful trigger to others, so take care when speaking about sensitive topics.
 
+### No Flashing Imagery
+
+Some of our community members have health conditions which must be taken into consideration when posting here. For example, flashing images can cause epileptic seizures - which can be extremely dangerous. As a result, flashing imagery must _not_ be posted anywhere on the server, even under a spoiler tag.
+
+Please note that due to the severity of this rule, we reserve the right to issue permanent bans if we believe that the flashing imagery was posted knowingly.
+
 ## No Hate Speech or Support
 
 Our goal will always be to build a safe, tolerant space for anyone who needs one. That said, we are well aware that tolerance is a two-way street. Our tolerance and kindness only extends to those willing to show us - and the entire Rainbow Materia community - that same tolerance and kindness.
