@@ -31,7 +31,7 @@
     "postcss-import": "^13.0.0",
     "postcss-mixins": "^6.2.3",
     "postcss-preset-env": "^6.7.0",
-    "postcss-simple-vars": "^5.0.2",
+    "postcss-simple-vars": "^6.0.1",
     "precss": "^4.0.0",
     "string": "^3.3.3",
     "uglify-js": "^3.12.0",
