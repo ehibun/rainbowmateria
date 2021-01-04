@@ -25,7 +25,7 @@
     "luxon": "^1.25.0",
     "markdown-it-anchor": "^6.0.1",
     "markdown-it-footnote": "^3.0.2",
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.2",
     "postcss-color-mix": "^1.1.0",
     "postcss-comment": "^2.0.0",
     "postcss-import": "^13.0.0",
@@ -38,6 +38,6 @@
     "xml2js": "^0.4.23"
   },
   "devDependencies": {
-    "cross-env": "5.2.0"
+    "cross-env": "7.0.3"
   }
 }
