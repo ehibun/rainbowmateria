@@ -4,6 +4,8 @@ http://xiv.gay/* https://rainbowmateria.com/:splat 301!
 https://www.xiv.gay/* https://rainbowmateria.com/:splat 301!
 http://www.xiv.gay/* https://rainbowmateria.com/:splat 301!
 
+https://xiv.gay/.well-known/host-meta https://social.xiv.gay/:splat 301!
+
 https://rainbowmateria.net/* https://rainbowmateria.com/:splat 301!
 http://rainbowmateria.net/* https://rainbowmateria.com/:splat 301!
 https://www.rainbowmateria.net/* https://rainbowmateria.com/:splat 301!
