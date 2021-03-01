@@ -76,7 +76,7 @@ This means strictly no discussion or imagery of genitals or sexual acts, and no 
 
 Most of our interpretation of what is and isn't safe for work follows Western cultural standards, but please be aware of the following notes:
 
-- We do not believe that depictions of nipples are inherently sexual, and as such allow them to be posted in a non-sexual context regardless of gender presentation. However, they must be posted under spoiler tags at all times, as they are unsuitable for certain environments such as work or school.
+- We do not believe that depictions of nipples or bare chests are inherently sexual, and as such allow them to be posted in a non-sexual context regardless of gender presentation. However, these images may not be appropriate for school or work environments, and so all such images must be posted under spoiler tags at all times.
 - Discussion (but not imagery) of sexual health topics such as transgender surgery is allowed. However, for the comfort of those who may be uncomfortable reading about such issues, please use the relevant Support channel for these topics.
 - Content containing abusive or demeaning acts are strictly banned.
 
