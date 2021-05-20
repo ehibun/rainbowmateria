@@ -22,7 +22,7 @@
     "cssnano": "^4.1.10",
     "dotenv": "^8.2.0",
     "html-minifier": "^4.0.0",
-    "luxon": "^1.25.0",
+    "luxon": "^1.27.0",
     "markdown-it-anchor": "^7.1.0",
     "markdown-it-footnote": "^3.0.2",
     "postcss": "^8.2.2",
