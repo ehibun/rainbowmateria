@@ -1,5 +1,4 @@
-
- const { DateTime } = require("luxon");
+const { DateTime } = require("luxon");
 
 // Add a friendly date filter to nunjucks.
 // Defaults to format of LLLL d, y unless an
@@ -9,7 +8,6 @@
 
 module.exports = (dateObj, format = "LLL d, y") => {
   return DateTime.fromJSDate(dateObj, {
-      zone: "utc"
-    }).toFormat(format);
+    zone: "utc",
+  }).toFormat(format);
 };
-
