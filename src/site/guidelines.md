@@ -8,7 +8,7 @@ Every visitor to Rainbow Materia has a right to be safe, welcomed, and comfortab
 
 Like all communities, Rainbow Materia has a set of guidelines that we ask all of our visitors to follow at all times, in order to keep the atmosphere healthy and to allow for a variety of voices and viewpoints.
 
-These guidelines apply at all times, on all Rainbow Materia platforms -- including our Discord, these forums, and when interacting with us elsewhere on the internet.
+These guidelines apply at all times, on all Rainbow Materia platforms -- including our Discord, our social media accounts, and when interacting with us elsewhere on the internet.
 
 ## Be Excellent to Each Other
 
@@ -104,7 +104,7 @@ As many in our community have been directly harmed by toxic politics, please do 
 
 ## Don't Abuse Community Functionality
 
-Please do not abuse functionality provided by the forums, Discord, or our Discord bots. This includes:
+Please do not abuse functionality provided by Discord or our Discord bots. This includes:
 
 - Attempting to tag `@everyone` or `@here` either directly or via a bot
 - Mass-mentioning (mentioning many people in a short space of time, or repeatedly pinging someone)
