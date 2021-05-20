@@ -121,8 +121,7 @@ As part of our expectation that you act in good faith, we ask that you do not tr
 
 ## Discord Community Guidelines
 
-Please note that our Discord server, like all other Discord servers, follows the Discord Community Guidelines. We reserve the right to submit reports to Discord if necessary. You can [click here to
-read the Discord Community Guidelines](https://discordapp.com/guidelines).
+Please note that our Discord server, like all other Discord servers, follows the Discord Community Guidelines. We reserve the right to submit reports to Discord if necessary. You can [click here to read the Discord Community Guidelines](https://discordapp.com/guidelines).
 
 ## Guideline Changes and Updates
 
