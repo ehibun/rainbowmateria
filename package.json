@@ -32,7 +32,7 @@
     "postcss-mixins": "^8.0.0",
     "postcss-preset-env": "^6.7.0",
     "postcss-simple-vars": "^6.0.3",
-    "precss": "^3.1.2",
+    "precss": "^4.0.0",
     "string": "^3.3.3",
     "uglify-js": "^3.13.7",
     "xml2js": "^0.4.23"
