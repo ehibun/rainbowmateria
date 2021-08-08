@@ -39,11 +39,11 @@ While the community is often home to meaningful and serious debates, we expect e
 
 ### Look After Each Other
 
-Each of us have our own issues that we struggle with, and it's important that we acknowledge that and work to allow everyone to feel comfortable. We ask that you do your best to be respectful of this. A few things that can help are:
+We all react to different issues in different ways. It’s important that we acknowledge that and work to allow everyone to feel comfortable. We ask that you do your best to be respectful of this. This includes:
 
-1. If you are asked to move a triggering discussion to the support channels, please do so where possible.
-2. When posting something that may trigger or upset others, consider posting in a spoiler tag, marked with a content warning.
-3. Consider the lived experiences of those around you, particularly by those whose experiences don't match yours. What may not upset you could be a harmful trigger to others, so take care when speaking about sensitive topics.
+1. Having conversations about heavy or potentially upsetting topics can be a negative experience for others, particularly if they're not expecting it. If you'd like to discuss a subject of this nature, we expect you to use one of the support channels on every occasion. Similarly, If you are asked to move a discussion because it is triggering, please do so.
+1. When posting heavy topics, consider using spoiler tags, labelled with a content warning, to help others curate what they see - this is especially important if what you're posting is part of an existing conversation outside of the support channels,
+1. Always consider the lived experiences of those around you when posting, particularly those whose experiences don’t match yours. What may not upset you could be a harmful trigger to others, so we expect you to take care when speaking about sensitive topics.
 
 ### No Flashing Imagery
 
@@ -181,9 +181,12 @@ We do, however, immediately ban very new users who are overtly abusive or disrup
 
 ## Strikes and Bans
 
-We believe that effective moderation can't be done properly with strict, inflexible systems, so we don't operate a formal strike system.
+We believe that effective moderation can’t be done properly with strict, inflexible systems, so we don’t operate a formal strike system. Instead, we try to match the actions we take with the severity and urgency of the issue. This means we may act more strictly if there is a safety issue involved, or more leniently if we believe doing so would foster a better outcome.
 
-However, as a rule of thumb, we will generally consider issuing a ban if a user gains three written warnings without improving their behaviour. All bans are discussed with the staff team before they are implemented, in order to maintain accountability and verify the facts before acting.
+However, as a rule of thumb, we will generally consider removing a user from the community if they gain three warnings without improving their behaviour, or if we see repeated instances of rule-breaking with ill intent.
+Similarly, we may also permanently ban a user for overt safety issues - for example, if a member is repeatedly triggering others and is unable or unwilling to stop. We will endeavour to communicate when this is a possibility before we act, but please be aware that this may not always be possible.
+
+Where possible, all bans are discussed with the staff team before they are implemented, to maintain accountability and verify the facts before acting. However, all staff members are empowered to make decisions immediately if needed - particularly if an issue is time-critical or extreme.
 
 ## Appeals
 
