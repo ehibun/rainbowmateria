@@ -1,5 +1,5 @@
 ---
-title: The LGBTQIA+ gaming community for everyone.
+title: The LGBTQIA2S+ gaming community for everyone.
 layout: layouts/base.njk
 hero: true
 button: 
