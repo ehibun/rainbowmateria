@@ -20,7 +20,7 @@ Rainbow Materia is an open and positive community. Any sort of abusive, belittli
 
 ### We Welcome Everyone
 
-Please remember that Rainbow Materia is an LGBTQIA+ community first and foremost, but we also welcome allies with open arms.
+Please remember that Rainbow Materia is an LGBTQIA2S+ community first and foremost, but we also welcome allies with open arms.
 
 What this means in practice is that we're not a place for bashing people outside the community, and our goal will always be to build a safe, tolerant space for anyone who needs one. While we fully understand the need to blow off steam and vent about larger society, please refrain from attacking (for example) _all_ straight people, or _all_ cisgender people.
 
@@ -145,7 +145,7 @@ This means you'll get a quicker response, as any appropriate staff member can re
 
 If you would prefer to be assisted by someone with particular experience, please specify in your message and we will honour your request if at all possible.
 
-### Discord or Forum DMs
+### Discord DMs
 
 If you'd like to contact a member of staff directly, you can send any of us a Direct Message via Discord. You might choose to do this if you wish to speak to someone in particular, or if your issue is sensitive. Please note that contacting a staff member directly may mean that you take longer to receive a reply.
 
