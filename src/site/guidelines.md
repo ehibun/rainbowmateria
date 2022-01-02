@@ -149,7 +149,7 @@ If you would prefer to be assisted by someone with particular experience, please
 
 If you'd like to contact a member of staff directly, you can send any of us a Direct Message via Discord. You might choose to do this if you wish to speak to someone in particular, or if your issue is sensitive. Please note that contacting a staff member directly may mean that you take longer to receive a reply.
 
-## Warnings, Bans, and Appeals
+## Enforcing Our Guidelines
 
 The Rainbow Materia staff may occasionally have to step in to enforce our guidelines if they are not being followed. How we act in these cases varies based on the severity of the behaviour, and whether it is causing harm or not.
 
@@ -167,27 +167,27 @@ Instead, we use the following steps in order to determine how to act when needed
 | <div class="table-badge">6</div>   | A member has been directly harmed by another member's behaviour. | If the behaviour happened in a public space, confirm any staff actions taken in that same space. Reach out to the affected member via modmail or DM to offer support. |
 | <div class="table-badge">7</div>   | A member has been issued a temporary ban or timeout which has involved them being removed from the community. | Attempt to reach out to the member and inform them that they are now welcome back in the community. Monitor the situation as appropriate. |
 
-## Types of Warnings
+### Types of Warnings
 
-Not every situation can be resolved in the same way, and what might be appropriate for one situation may not work for another.. As such, we have two different types of warnings that we can use as needed: informal warnings and formal warnings.
+Not every situation can be resolved in the same way, and what might be appropriate for one situation may not work for another. As such, we have two different types of warnings that we can use as needed: informal warnings and formal warnings.
 
 **Informal warnings** are where a staff member contacts you to let you know that your behaviour is outside our guidelines, so that you can adjust accordingly. As the name implies, this will usually take the form of a light reminder about what we expect - for example, if we ask you to spoiler an image, or to move a discussion to a more appropriate channel.
 
-These warnings are given so that you know we'd like you to stop a particular behaviour - they won't affect your ability to use the community. If you repeatedly do the same things that get you a formal warning, however, we may choose to change how we respond appropriately. For example, we might instead issue a formal warning and let you know
+These warnings are given so that you know we'd like you to stop a particular behaviour - they won't affect your ability to use the community. However, if you repeatedly do the same things that we gave you an informal warning for, we may choose to give you a formal warning instead, as described below.
 
 **Formal warnings** are used when we need to correct a more severe break in our guidelines. These warnings will be communicated to you directly by a member of staff as described below, and will be clearly marked as being a formal warning. You will also get a notice from Mitsuha, our moderation bot, that the warning has been recorded.
 
 It is very important that you heed a formal warning. If we give you a formal warning and you repeat the same behaviour, we may need to escalate to a timeout or ban.
 
-## Communicating Staff Actions
+### Communicating Staff Actions
 
 If we need to issue you a warning, timeout, or ban, or apply a channel slowmode or lock, we will attempt to communicate this to you at the earliest possible instance.
 
-### Slowmodes or channel locks
+#### Slowmodes or channel locks
 
 In the case of channel-wide actions such as slowmodes or channel locks, we will let you know what we have done within that channel.
 
-### Warnings, Timeouts, and Bans
+#### Warnings, Timeouts, and Bans
 
 If we need to issue you a warning, timeout, or ban directly, we will attempt to do this using our modmail system. This involves us sending you a Discord direct message via our modmail bot, `@Feo Ul#2288`.
 
@@ -197,8 +197,10 @@ If we are unable to reach you privately, we may need to tell you about the actio
 
 In addition, we may need to let others affected by the behaviour know what has happened, in order to support them or to help with conflict resolution. In these cases, we will only give brief, directly relevant details: for example, we may say that we have given out a warning, but we wouldn't share details on any other warnings we have given.
 
-## Appeals
+### Appeals
 
-Any written warning or ban can be appealed by contacting `@Feo Ul#2288` on Discord. Appeals are reviewed by a different staff member than the one who issued the warning, and will be assessed independently. If a warning or ban was issued in error, it will be removed from the system, and will no longer count against you.
+Any staff conduct, as well as punishments such as warnings or bans, can be appealed by contacting `@Feo Ul#2288` on Discord. This opens a modmail with the staff team, who will independently review your appeal. If the appeal regards a specific staff member, they will not be part of the appeal process.
+
+If our review shows that a staff member acted in error when issuing a warning, timeout, or ban, it will be removed from the system and will no longer count against you.
 
 [^1]: Named such after [this magnificent comic](http://wondermark.com/1k62/).
