@@ -151,42 +151,51 @@ If you'd like to contact a member of staff directly, you can send any of us a Di
 
 ## Warnings, Bans, and Appeals
 
-Rainbow Materia's staff team are responsible for monitoring the community and, if necessary, enforcing the guidelines listed here. However, our job is not to punish every little transgression, but instead to guide and educate our users. This means we prefer to talk to people rather than punishing them; to guide rather than rebuke.
+The Rainbow Materia staff may occasionally have to step in to enforce our guidelines if they are not being followed. How we act in these cases varies based on the severity of the behaviour, and whether it is causing harm or not.
 
-That said, our first priority is the safety of the community, and we will take whatever actions are needed to ensure that everyone in the community can be safe, comfortable, and accepted. To guide this, we follow a broad structure for issuing warnings and bans, which allows us to maintain consistency and transparency in terms of how we enforce the guidelines, but still allows us the flexibility to adapt our approach when needed.
+We do not operate any sort of three-strike system, as they do not allow us to be flexible in our moderation - sometimes we may wish to be more compassionate than a system allows for; conversely, we may need to take swifter and stricter action to address an issue immediately.
 
-If you have any comments or concerns, please contact `@Feo Ul#2288` to send a message to the staff team, and we'll get back to you promptly.
+Instead, we use the following steps in order to determine how to act when needed:
 
----
+|     | Situation                                                                   | Staff action                                                                   |
+| :---: | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <div class="table-badge">1</div>   | There is an ongoing or escalating situation, and staff present need time to decide upon an appropriate response. | Apply slowmode or targeted timeouts to allow for room to make clear and considered decisions. |
+| <div class="table-badge">2</div>   | There is a **clear** demonstration of trolling, hate speech, or harassment. | Consider an immediate ban or timeout. |
+| <div class="table-badge">3</div>   | There is evidence of direct harm or offense - for example, hate speech, harassment, or posting something triggering. | Decide whether to apply a ban or to timeout and warn, as appropriate. The length of the timeout may vary depending on the situation. |
+| <div class="table-badge">4</div>   | A members' behaviour is against the guidelines, and they have previously received warnings for the same or similar behaviour, or have actively continued the behaviour despite being asked to stop. | If a member has been asked to cease disruptive behaviour and is continuing, apply a timeout as needed, and consider issuing a warning or ban.<br>If a member has a previous informal warning, consider issuing a formal warning.<br>If a member has a previous formal warning, consider escalating to a timeout, or a ban if there is no sign of improved behaviour. |
+| <div class="table-badge">5</div>   | A member has posted something against the guidelines without urgent or repeated circumstances. | Decide whether to give an informal or formal warning, depending on the severity of the guideline break. |
+| <div class="table-badge">6</div>   | A member has been directly harmed by another member's behaviour. | If the behaviour happened in a public space, confirm any staff actions taken in that same space. Reach out to the affected member via modmail or DM to offer support. |
+| <div class="table-badge">7</div>   | A member has been issued a temporary ban or timeout which has involved them being removed from the community. | Attempt to reach out to the member and inform them that they are now welcome back in the community. Monitor the situation as appropriate. |
 
-### Warning Types
+## Types of Warnings
 
-If you run afoul of the rules here at Rainbow Materia, one of three things will happen:
+Not every situation can be resolved in the same way, and what might be appropriate for one situation may not work for another.. As such, we have two different types of warnings that we can use as needed: informal warnings and formal warnings.
 
-### Verbal Warning
+**Informal warnings** are where a staff member contacts you to let you know that your behaviour is outside our guidelines, so that you can adjust accordingly. As the name implies, this will usually take the form of a light reminder about what we expect - for example, if we ask you to spoiler an image, or to move a discussion to a more appropriate channel.
 
-A member of staff will contact you and discuss what went wrong and how it can be improved. Verbal warnings don't count as strikes against you, and are mostly used to inform you when there's room for improvement in how you interact with the community.
+These warnings are given so that you know we'd like you to stop a particular behaviour - they won't affect your ability to use the community. If you repeatedly do the same things that get you a formal warning, however, we may choose to change how we respond appropriately. For example, we might instead issue a formal warning and let you know
 
-### Written Warning
+**Formal warnings** are used when we need to correct a more severe break in our guidelines. These warnings will be communicated to you directly by a member of staff as described below, and will be clearly marked as being a formal warning. You will also get a notice from Mitsuha, our moderation bot, that the warning has been recorded.
 
-Written warnings are issued through Mitsuha, our bot, and are kept on record and can be viewed by the staff team. While written warnings technically don't expire, old warnings are unlikely to be counted against you if significant time has passed and we've seen your behaviour improve.
+It is very important that you heed a formal warning. If we give you a formal warning and you repeat the same behaviour, we may need to escalate to a timeout or ban.
 
-Like verbal warnings, a member of staff will contact you and explain why you're receiving a warning, and you will also receive a DM from Mitsuha when the warning is issued.
+## Communicating Staff Actions
 
-### Immediate Ban
+If we need to issue you a warning, timeout, or ban, or apply a channel slowmode or lock, we will attempt to communicate this to you at the earliest possible instance.
 
-Immediate bans - where a user is immediately removed from the entire community - are considered a nuclear option. We will only ever immediately ban established members in extreme circumstances where it is impossible to resolve the issue using the normal methods. We list this here largely for completeness, as it is very, very unlikely that this scenario will see much use.
+### Slowmodes or channel locks
 
-We do, however, immediately ban very new users who are overtly abusive or disruptive in order to protect the community, as it is unlikely that they will put the effort in to change their behaviour.
+In the case of channel-wide actions such as slowmodes or channel locks, we will let you know what we have done within that channel.
 
-## Strikes and Bans
+### Warnings, Timeouts, and Bans
 
-We believe that effective moderation can’t be done properly with strict, inflexible systems, so we don’t operate a formal strike system. Instead, we try to match the actions we take with the severity and urgency of the issue. This means we may act more strictly if there is a safety issue involved, or more leniently if we believe doing so would foster a better outcome.
+If we need to issue you a warning, timeout, or ban directly, we will attempt to do this using our modmail system. This involves us sending you a Discord direct message via our modmail bot, `@Feo Ul#2288`.
 
-However, as a rule of thumb, we will generally consider removing a user from the community if they gain three warnings without improving their behaviour, or if we see repeated instances of rule-breaking with ill intent.
-Similarly, we may also permanently ban a user for overt safety issues - for example, if a member is repeatedly triggering others and is unable or unwilling to stop. We will endeavour to communicate when this is a possibility before we act, but please be aware that this may not always be possible.
+However, a member of staff may need to send you a direct message from their personal account if needs be - for example, if your privacy settings prevent Feo Ul from sending you a DM. You may be sent a friend request from the staff member issuing a warning, timeout, or ban in this case. Note that we will keep a record of all communication made this way in case we need to review it in the event of an appeal, or if the behaviour is repeated.
 
-Where possible, all bans are discussed with the staff team before they are implemented, to maintain accountability and verify the facts before acting. However, all staff members are empowered to make decisions immediately if needed - particularly if an issue is time-critical or extreme.
+If we are unable to reach you privately, we may need to tell you about the action we take in a public channel. If this happens, we will let you know what has happened in brief, then invite you to contact us for full details, to ask questions, or to appeal the warning. Please note that any follow-up communication must be done via DM or another private medium to allow the channel to be used by others for its intended purpose.
+
+In addition, we may need to let others affected by the behaviour know what has happened, in order to support them or to help with conflict resolution. In these cases, we will only give brief, directly relevant details: for example, we may say that we have given out a warning, but we wouldn't share details on any other warnings we have given.
 
 ## Appeals
 

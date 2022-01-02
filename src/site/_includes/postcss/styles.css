@@ -305,4 +305,5 @@ footer {
   border: 0 !important;
 }
 
+@import "_tables.css";
 @import "_syntax.css";
