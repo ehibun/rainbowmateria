@@ -44,9 +44,9 @@ module.exports = function (config) {
     typographer: true,
   })
     .use(markdownItAnchor, {
-      permalink: true,
+      permalink: markdownItAnchor.permalink.headerLink({ safariReaderFix: true }),
       permalinkClass: "direct-link",
-      permalinkSymbol: "¶",
+      permalinkSymbol: "🔗",
       slugify: legacySlugify,
     })
     .use(markdownItFootnote);
