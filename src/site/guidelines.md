@@ -139,7 +139,7 @@ There are a few ways to contact us if you need to:
 
 ### Feo Ul/Modmail
 
-Our primary means of contact us via `@Feo Ul#2288` on Discord. Feo Ul is our modmail bot, which means that DMs sent to them will be opened as tickets that anyone on the staff team can review and respond to.
+Our primary means of contact is via `@Feo Ul#2288` on Discord. Feo Ul is our modmail bot, which means that DMs sent to them will be opened as tickets that anyone on the staff team can review and respond to.
 
 This means you'll get a quicker response, as any appropriate staff member can respond and discuss your issue with you, without needing you to guess who's available to help.
 
@@ -148,6 +148,10 @@ If you would prefer to be assisted by someone with particular experience, please
 ### Discord DMs
 
 If you'd like to contact a member of staff directly, you can send any of us a Direct Message via Discord. You might choose to do this if you wish to speak to someone in particular, or if your issue is sensitive. Please note that contacting a staff member directly may mean that you take longer to receive a reply.
+
+### The Community Feedback Channel
+
+We maintain a `#🗨community-feedback` channel to allow the community to make suggestions and ask questions in an open space. If you wish to contact us to give us feedback, suggestions, or discuss how the community is structured and operated, you are welcome to use this channel to do so.
 
 ## Enforcing Our Guidelines
 
@@ -160,8 +164,8 @@ Instead, we use the following steps in order to determine how to act when needed
 |     | Situation                                                                   | Staff action                                                                   |
 | :---: | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <div class="table-badge">1</div>   | There is an ongoing or escalating situation, and staff present need time to decide upon an appropriate response. | Apply slowmode or targeted timeouts to allow for room to make clear and considered decisions. |
-| <div class="table-badge">2</div>   | There is a **clear** demonstration of trolling, hate speech, or harassment. | Consider an immediate ban or timeout. |
-| <div class="table-badge">3</div>   | There is evidence of direct harm or offense - for example, hate speech, harassment, or posting something triggering. | Decide whether to apply a ban or to timeout and warn, as appropriate. The length of the timeout may vary depending on the situation. |
+| <div class="table-badge">2</div>   | There is a clear demonstration of **overt** trolling, hate speech, or harassment. | Consider an immediate ban or timeout. |
+| <div class="table-badge">3</div>   | There is evidence of direct harm or offense - for example, hate speech, harassment, or wilfully triggering others. | Decide whether to apply a ban or to timeout and warn, as appropriate. The length of the timeout may vary depending on the situation. |
 | <div class="table-badge">4</div>   | A members' behaviour is against the guidelines, and they have previously received warnings for the same or similar behaviour, or have actively continued the behaviour despite being asked to stop. | If a member has been asked to cease disruptive behaviour and is continuing, apply a timeout as needed, and consider issuing a warning or ban.<br>If a member has a previous informal warning, consider issuing a formal warning.<br>If a member has a previous formal warning, consider escalating to a timeout, or a ban if there is no sign of improved behaviour. |
 | <div class="table-badge">5</div>   | A member has posted something against the guidelines without urgent or repeated circumstances. | Decide whether to give an informal or formal warning, depending on the severity of the guideline break. |
 | <div class="table-badge">6</div>   | A member has been directly harmed by another member's behaviour. | If the behaviour happened in a public space, confirm any staff actions taken in that same space. Reach out to the affected member via modmail or DM to offer support. |
@@ -181,15 +185,21 @@ It is very important that you heed a formal warning. If we give you a formal war
 
 ### Communicating Staff Actions
 
-If we need to issue you a warning, timeout, or ban, or apply a channel slowmode or lock, we will attempt to communicate this to you at the earliest possible instance.
+Whenever we take action to protect the community, we will endeavour to tell you what we are doing and why we are doing it as quickly as we can. How we do this depends on what we're doing,
 
 #### Slowmodes or channel locks
 
 In the case of channel-wide actions such as slowmodes or channel locks, we will let you know what we have done within that channel.
 
-#### Warnings, Timeouts, and Bans
+#### Informal Warnings
 
-If we need to issue you a warning, timeout, or ban directly, we will attempt to do this using our modmail system. This involves us sending you a Discord direct message via our modmail bot, `@Feo Ul#2288`.
+Informal warnings will usually be shared with you in response to the behaviour we're warning for - for example, if we need to ask you to spoiler tag an image, we'll usually tag you in the same channel as that post so you can easily see the context.
+
+In some cases, we may choose to contact you directly instead, using the process defined below.
+
+#### Formal Warnings, Timeouts, and Bans
+
+If we need to issue you a formal warning, timeout, or ban, we will attempt to do this using our modmail system. This involves us sending you a Discord direct message via our modmail bot, `@Feo Ul#2288`.
 
 However, a member of staff may need to send you a direct message from their personal account if needs be - for example, if your privacy settings prevent Feo Ul from sending you a DM. You may be sent a friend request from the staff member issuing a warning, timeout, or ban in this case. Note that we will keep a record of all communication made this way in case we need to review it in the event of an appeal, or if the behaviour is repeated.
 
