@@ -1,0 +1,54 @@
+table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.85em;
+  min-width: 400px;
+}
+
+th {
+  color: $accent-color;
+  border-bottom: 1px solid hsla(324, 53%, 60%, 1);
+}
+
+th,
+td {
+  padding: 0.6em 0.3em;
+
+  @media (min-width: $mid) {
+    padding: 0.4em 0.3em;
+  }
+}
+
+tbody tr {
+  vertical-align: top;
+  background-color: hsla(324, 53%, 97%, 1);
+  border-left: 1px solid hsla(324, 53%, 85%, 1);
+  border-right: 1px solid hsla(324, 53%, 85%, 1);
+  border-bottom: 1px solid hsla(324, 53%, 85%, 1);
+
+  @media (min-width: $mid) {
+    vertical-align: middle;
+  }
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: hsla(324, 53%, 99%, 0.7);
+}
+
+tbody td:has(.table-badge) {
+  vertical-align: middle;
+}
+
+.table-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2em;
+  height: 2em;
+  line-height: 0;
+
+  color: $accent-color;
+  font-weight: bold;
+  border: 2px solid $accent-color;
+  border-radius: 50%;
+}
