@@ -35,7 +35,11 @@ We expect basic etiquette to be followed -- for example:
 
 ### Debate In Good Faith
 
-While the community is often home to meaningful and serious debates, we expect everyone to be deliberate in how they approach them. While we welcome disagreements and differing opinions, be sure to criticise the ideas being put forward, rather than attacking the people making them.
+While the community is often home to meaningful and serious debates, we expect everyone to be deliberate in how they approach them. While disagreements are part of any healthy community, be sure to respectfully criticise the ideas being put forward (whilst remaining open to them), not the people making them.
+
+### Disagree Respectfully 
+
+Not everyone holds the same opinions, and it is important to allow everyone in the community to have a voice. Be sure to respect these differences and allow others an equal chance to speak, even if you disagree with them.
 
 ### Look After Each Other
 
